@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ice Bear</title>
+  <style>
+    body {
+      background: linear-gradient(180deg, #0b0b14, #1a0033);
+      color: #e0d7ff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      font-size: 3em;
+      color: #b388ff;
+      text-shadow: 0 0 10px purple;
+    }
+    a {
+      display: block;
+      margin: 15px auto;
+      padding: 15px;
+      width: 260px;
+      background: #2a004f;
+      color: white;
+      text-decoration: none;
+      border-radius: 12px;
+      box-shadow: 0 0 10px #6a00ff;
+    }
+    a:hover {
+      background: #6a00ff;
+    }
+    iframe {
+      margin-top: 30px;
+      border-radius: 12px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>❄️ ICE BEAR ❄️</h1>
+  <p>Dark • Cold • Underground</p>
+
+  <a href="https://soundcloud.com/kodithaghoul19-782937244" target="_blank">🎧 SoundCloud</a>
+  <a href="https://www.bandlab.com/ice_bear300" target="_blank">🎚 BandLab</a>
+  <a href="https://www.youtube.com/@IceBear-d9t" target="_blank">📺 YouTube</a>
+  <a href="https://www.bonfire.com/store/ib-300/" target="_blank">🧊 Merch</a>
+
+  <!-- SoundCloud Embed -->
+  <iframe 
+    width="100%" 
+    height="166" 
+    scrolling="no" 
+    frameborder="no"
+    src="https://w.soundcloud.com/player/?url=https://soundcloud.com/YOURNAME">
+  </iframe>
+
+</body>
+</html>
